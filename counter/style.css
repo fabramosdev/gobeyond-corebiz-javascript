@@ -1,0 +1,24 @@
+
+
+.counter-container {
+    display: flex;
+}
+
+.counter-container button {
+    width: 100px;
+    height: 45px;
+    background: #7159c1;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    margin: 25px;
+}
+.counter-container button:hover {
+    background: #d663d6;
+}
+
+.counter-container span {
+    margin: 25px;
+    font-size: 40px;
+}
